@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/YohaanKhan/YohaanKhan/main/header.svg" width="100%" alt="Yohaan Khan Pathan"/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080810,50:0e0b1f,100:080810&height=260&section=header&text=YOHAAN%20KHAN%20PATHAN&fontSize=56&fontColor=ffffff&fontAlignY=44&desc=creo%20%C2%B7%20ergo%20%C2%B7%20sum&descSize=15&descColor=6e40c9&descAlignY=64&animation=fadeIn" width="100%"/>
+
 </div>
 
 <div align="center">
@@ -10,7 +12,7 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/building%20something%20classified-%230d0d14?style=for-the-badge&color=6e40c9&labelColor=0d0d14)&nbsp;![](https://img.shields.io/badge/3am%20is%20the%20honest%20hour-%230d0d14?style=for-the-badge&color=9d7fff&labelColor=0d0d14)&nbsp;![](https://img.shields.io/badge/creo%20ergo%20sum-%230d0d14?style=for-the-badge&color=ff6b9d&labelColor=0d0d14)
+![](https://img.shields.io/badge/building%20something%20classified-6e40c9?style=for-the-badge&labelColor=0d0d14)&nbsp;![](https://img.shields.io/badge/3am%20is%20the%20honest%20hour-9d7fff?style=for-the-badge&labelColor=0d0d14)&nbsp;![](https://img.shields.io/badge/creo%20ergo%20sum-ff6b9d?style=for-the-badge&labelColor=0d0d14)
 
 </div>
 
@@ -37,13 +39,13 @@
 
 ### `cat projects.log`
 
-```
-  project-alpha  ·  the thing that should not exist yet             [ classified ]  ██████▒▒  75%
-  ─────────────────────────────────────────────────────────────────────────────────────────────
-  devtools-x     ·  tools i needed when i started. now building.    [ open source ] █████▒▒▒  52%
-  ─────────────────────────────────────────────────────────────────────────────────────────────
-  learning       ·  systems · compilers · the void                  [ never ends ]  ████████  ∞
-```
+<div align="center">
+
+[![Finalysis](https://github-readme-stats.vercel.app/api/pin/?username=YohaanKhan&repo=Finalysis&hide_border=true&bg_color=0d0d14&title_color=9d7fff&icon_color=ff6b9d&text_color=a0aec0&description_lines_count=2)](https://github.com/YohaanKhan/Finalysis)
+&nbsp;
+[![SmartSlot](https://github-readme-stats.vercel.app/api/pin/?username=YohaanKhan&repo=SmartSlot&hide_border=true&bg_color=0d0d14&title_color=9d7fff&icon_color=ff6b9d&text_color=a0aec0&description_lines_count=2)](https://github.com/YohaanKhan/SmartSlot)
+
+</div>
 
 ---
 
@@ -81,7 +83,7 @@ root@YohaanKhan:~$ _
 </div>
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YohaanKhan&hide_border=true&background=0d0d14&ring=6e40c9&fire=ff6b9d&currStreakLabel=9d7fff&sideLabels=a0aec0&dates=555577&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=YohaanKhan&hide_border=true&background=0d0d14&ring=6e40c9&fire=ff6b9d&currStreakLabel=9d7fff&sideLabels=a0aec0&dates=555577&currStreakNum=ffffff&sideNums=ffffff&stroke=0d0d14" width="55%"/>
 </div>
 
 ---
