@@ -1,0 +1,106 @@
+<svg width="900" height="280" viewBox="0 0 900 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="280" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080810"/>
+      <stop offset="50%" stop-color="#0e0b1f"/>
+      <stop offset="100%" stop-color="#080810"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#080810"/>
+      <stop offset="30%" stop-color="#6e40c9"/>
+      <stop offset="70%" stop-color="#9d7fff"/>
+      <stop offset="100%" stop-color="#080810"/>
+    </linearGradient>
+    <linearGradient id="namegrad" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#e8e0ff"/>
+      <stop offset="100%" stop-color="#9d7fff"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow">
+      <feGaussianBlur stdDeviation="18" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+
+  <!-- Ambient glow blobs -->
+  <ellipse cx="200" cy="140" rx="220" ry="120" fill="#6e40c9" opacity="0.06"/>
+  <ellipse cx="750" cy="100" rx="160" ry="100" fill="#9d7fff" opacity="0.05"/>
+  <ellipse cx="500" cy="260" rx="300" ry="80" fill="#ff6b9d" opacity="0.04"/>
+
+  <!-- Grid dots pattern -->
+  <g opacity="0.08">
+    <circle cx="60" cy="40" r="1" fill="#9d7fff"/>
+    <circle cx="120" cy="40" r="1" fill="#9d7fff"/>
+    <circle cx="180" cy="40" r="1" fill="#9d7fff"/>
+    <circle cx="60" cy="80" r="1" fill="#9d7fff"/>
+    <circle cx="120" cy="80" r="1.5" fill="#9d7fff"/>
+    <circle cx="180" cy="80" r="1" fill="#9d7fff"/>
+    <circle cx="240" cy="80" r="1" fill="#9d7fff"/>
+    <circle cx="820" cy="160" r="1" fill="#9d7fff"/>
+    <circle cx="860" cy="160" r="1.5" fill="#9d7fff"/>
+    <circle cx="820" cy="200" r="1" fill="#9d7fff"/>
+    <circle cx="860" cy="200" r="1" fill="#9d7fff"/>
+    <circle cx="840" cy="220" r="1" fill="#9d7fff"/>
+  </g>
+
+  <!-- Corner bracket top-left -->
+  <path d="M 40 50 L 40 36 L 54 36" stroke="#6e40c9" stroke-width="1.5" fill="none" opacity="0.6"/>
+  <!-- Corner bracket bottom-right -->
+  <path d="M 860 230 L 860 244 L 846 244" stroke="#6e40c9" stroke-width="1.5" fill="none" opacity="0.6"/>
+
+  <!-- Sys label -->
+  <text x="60" y="80" font-family="'Courier New', monospace" font-size="11" fill="#6e40c9" opacity="0.8" letter-spacing="3">SYS://GITHUB.COM/YOHAANKHAN</text>
+
+  <!-- Black cat silhouette — minimal, geometric -->
+  <g transform="translate(720, 55)" opacity="0.85">
+    <!-- Body -->
+    <ellipse cx="50" cy="105" rx="34" ry="40" fill="#0f0f1a" stroke="#2a1a5e" stroke-width="1"/>
+    <!-- Head -->
+    <circle cx="50" cy="62" r="26" fill="#0f0f1a" stroke="#2a1a5e" stroke-width="1"/>
+    <!-- Left ear -->
+    <polygon points="28,42 22,18 42,36" fill="#0f0f1a" stroke="#2a1a5e" stroke-width="1"/>
+    <!-- Right ear -->
+    <polygon points="72,42 78,18 58,36" fill="#0f0f1a" stroke="#2a1a5e" stroke-width="1"/>
+    <!-- Inner left ear -->
+    <polygon points="30,40 26,24 40,36" fill="#1a0a3e" opacity="0.7"/>
+    <!-- Inner right ear -->
+    <polygon points="70,40 74,24 60,36" fill="#1a0a3e" opacity="0.7"/>
+    <!-- Eyes — glowing -->
+    <ellipse cx="40" cy="60" rx="5" ry="6" fill="#9d7fff" filter="url(#glow)"/>
+    <ellipse cx="60" cy="60" rx="5" ry="6" fill="#9d7fff" filter="url(#glow)"/>
+    <!-- Pupils -->
+    <ellipse cx="40" cy="61" rx="2" ry="5" fill="#1a0a3e"/>
+    <ellipse cx="60" cy="61" rx="2" ry="5" fill="#1a0a3e"/>
+    <!-- Nose -->
+    <polygon points="50,70 47,73 53,73" fill="#ff6b9d" opacity="0.8"/>
+    <!-- Whiskers left -->
+    <line x1="22" y1="71" x2="44" y2="73" stroke="#3a2a6e" stroke-width="0.8" opacity="0.6"/>
+    <line x1="20" y1="75" x2="44" y2="75" stroke="#3a2a6e" stroke-width="0.8" opacity="0.6"/>
+    <!-- Whiskers right -->
+    <line x1="78" y1="71" x2="56" y2="73" stroke="#3a2a6e" stroke-width="0.8" opacity="0.6"/>
+    <line x1="80" y1="75" x2="56" y2="75" stroke="#3a2a6e" stroke-width="0.8" opacity="0.6"/>
+    <!-- Tail -->
+    <path d="M 84 130 Q 110 110 105 80 Q 100 60 115 55" stroke="#2a1a5e" stroke-width="8" fill="none" stroke-linecap="round"/>
+    <path d="M 84 130 Q 110 110 105 80 Q 100 60 115 55" stroke="#0f0f1a" stroke-width="6" fill="none" stroke-linecap="round"/>
+  </g>
+
+  <!-- Main name -->
+  <text x="60" y="160" font-family="'Arial Black', 'Arial Bold', sans-serif" font-size="62" font-weight="900" fill="url(#namegrad)" letter-spacing="-1">YOHAAN KHAN</text>
+
+  <!-- Subtitle -->
+  <text x="62" y="196" font-family="'Courier New', monospace" font-size="16" fill="#9d7fff" letter-spacing="6" opacity="0.9">PATHAN</text>
+
+  <!-- Tagline -->
+  <text x="62" y="228" font-family="'Courier New', monospace" font-size="13" fill="#555577" letter-spacing="2">creo  ergo  sum  —  i create, therefore i exist</text>
+
+  <!-- Bottom gradient line -->
+  <rect x="0" y="272" width="900" height="1.5" fill="url(#line)" opacity="0.8"/>
+  <rect x="0" y="274" width="900" height="6" fill="url(#bg)" opacity="0.4"/>
+</svg>
