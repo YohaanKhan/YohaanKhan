@@ -39,13 +39,13 @@
 
 ### `cat projects.log`
 
-<div align="center">
+```
+  Finalysis   ·  multi-source financial pipeline + credit scoring    [ Python ]   [ public ]
+  ──────────────────────────────────────────────────────────────────────────────────────────
+  SmartSlot   ·  conflict-free timetable scheduler, genetic algo     [ HTML   ]   [ public ]
+```
 
-[![Finalysis](https://github-readme-stats.vercel.app/api/pin/?username=YohaanKhan&repo=Finalysis&hide_border=true&bg_color=0d0d14&title_color=9d7fff&icon_color=ff6b9d&text_color=a0aec0&description_lines_count=2)](https://github.com/YohaanKhan/Finalysis)
-&nbsp;
-[![SmartSlot](https://github-readme-stats.vercel.app/api/pin/?username=YohaanKhan&repo=SmartSlot&hide_border=true&bg_color=0d0d14&title_color=9d7fff&icon_color=ff6b9d&text_color=a0aec0&description_lines_count=2)](https://github.com/YohaanKhan/SmartSlot)
-
-</div>
+**[Finalysis](https://github.com/YohaanKhan/Finalysis)** &nbsp; · &nbsp; **[SmartSlot](https://github.com/YohaanKhan/SmartSlot)** 
 
 ---
 
