@@ -56,8 +56,8 @@ root@YohaanKhan:~$ cat self.txt
 
   name      :  Yohaan Khan Pathan
   alias     :  the black cat
-  timezone  :  wherever 3am is
-  status    :  building in the dark
+  timezone  :  wherever 4am is
+  status    :  building something random
 
   traits    :  coffee goes cold, commits go hot
                philosophy is debugging reality
@@ -76,9 +76,6 @@ root@YohaanKhan:~$ _
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YohaanKhan&show_icons=true&hide_border=true&title_color=9d7fff&icon_color=ff6b9d&text_color=a0aec0&bg_color=0d0d14&ring_color=6e40c9&include_all_commits=true&count_private=true&custom_title=commits+into+the+void" height="168"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YohaanKhan&layout=compact&hide_border=true&title_color=9d7fff&text_color=a0aec0&bg_color=0d0d14&custom_title=languages" height="168"/>
 
 </div>
 
