@@ -101,7 +101,7 @@ root@YohaanKhan:~$ _
   the black cat always lands on its feet.
 ```
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d14?style=flat-square&logo=linkedin&logoColor=9d7fff)](https://www.linkedin.com/in/yohaankhan11/)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d14?style=flat-square&logo=vercel&logoColor=ff6b9d)]([https://](https://yohaanos.vercel.app/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d14?style=flat-square&logo=linkedin&logoColor=9d7fff)](https://www.linkedin.com/in/yohaankhan11/)&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-0d0d14?style=flat-square&logo=vercel&logoColor=ff6b9d)](https://(https://yohaan-.vercel.app/](https://yohaan-lab-portfolio.vercel.app)
 
 </div>
 
